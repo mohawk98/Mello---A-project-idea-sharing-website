@@ -27,7 +27,7 @@ Go to the project directory through the command prompt and run the command "npm 
 
 Run the project on the localhost by running "node app.js" on the command prompt. Open http://localhost:3000 on your browser.
 
-Great!! 😃 You are ready to view the project on your machine. 🚀
+Great!! You are ready to view the project on your machine.
 
 Note: \
 The page will not reload if you make edits. You may install the nodemon package using "npm i nodemon". Now run "nodemon app.js" on the terminal. \
